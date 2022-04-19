@@ -1,6 +1,6 @@
 # PV-Photos-Image-Processing
 
-The purpose of this project is to read solar panels scan photos and process them for evaluation. T
+The purpose of this project is to read solar panels scan photos and process them for evaluation. 
 
 ## Team 
 
